@@ -24,6 +24,25 @@ Ce projet est une application de \*\*gestion immobilière\*\* développée avec 
 
 \- 📁 Export de données (optionnel)
 
+## 🖼️ Aperçu de l'application
+
+### Page Login
+![Login](./screenshots/Login.png)
+
+### Tableau de bord
+![Dashboard](./screenshots/dashboard.png)
+
+### Page liste_site
+![liste_site](./screenshots/liste_site.png)
+
+### Page ajout_site
+![ajout_site](./screenshots/ajout_site.png)
+
+### Page comptabilite
+![comptabilite](./screenshots/comptabilite.png)
+
+### Page gestion_acces
+![gestion_acces](./screenshots/gestion_acces.png)
 
 
 \## ⚙️ Technologies utilisées
