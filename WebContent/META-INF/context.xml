@@ -1,0 +1,21 @@
+<!--
+<Context>
+	<Resource name="jdbc/gestion_salaire" auth="Container" type="javax.sql.DataSource"
+		maxTotal="100" maxIdle="30" maxWaitMillis="10000"
+		username="root" password="+techous1root+" driverClassName="com.mysql.cj.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/techous_groupe?serverTimezone=UTC"/>
+</Context>
+-->
+
+
+<Context>
+	<Resource name="jdbc/gestions_imm" auth="Container" type="javax.sql.DataSource"
+		maxTotal="100" maxIdle="30" maxWaitMillis="10000"
+		username="root" password="berthe" driverClassName="com.mysql.cj.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/gestions_immobilier?serverTimezone=UTC"/>
+</Context> 
+
+
+
+
+

@@ -1,0 +1,234 @@
+body
+{
+	margin:3%;
+	padding:0%;
+}
+
+.h1
+{
+	background:#50dd13;
+	text-align:center;
+	font-size:3.2em;
+	font-family:georgia;
+	margin-top:-0.2em;
+	color:#000;
+}
+
+.form
+{
+	background:#c0c0c0;
+}
+
+.Recherche
+{
+	background:#59b748;
+	font-family:georgia;
+	margin-left:-1.4em;
+}
+
+.Recherche1
+{
+	width:65%;
+	height:40px;
+}
+
+.Ecole3
+{
+	width:71%;
+	height:40px;
+}
+
+.nav
+{
+	
+	background:#0080ff;
+	font-family:georgia;
+	text-transform:uppercase;
+	font-size:0.94em;
+	margin-top:0.7em;
+}
+
+
+
+#a
+{
+	color:#fff;
+	margin-top:-0.6em;
+	margin:-0.8em;
+	margin-left:1em;
+	margin:-0.5em;	
+
+			
+}
+
+
+.deconnexion
+{
+	color:#d20000;
+	font-family:georgia;
+	margin-left:-0.4em;
+	font-size:0.9em;
+}
+
+.troi
+{
+	width:100%;
+	padding:3.9em;
+	margin:0.5em;
+}
+
+/*+++++++++ CALENDRIER CAISSE ++++++++++++*/
+.menuPrincipal {
+	padding: 0 15px 0 0;
+	
+}
+
+.table_se>tr {
+	padding: 5px;
+}
+
+.th {
+	background: red;
+	margin: 5px;
+}
+
+#myTable {
+	height: 440px !important;
+	margin-bottom: 0;
+	overflow-y: auto;
+	border: 1px solid #400040;
+	
+}
+
+.table {
+	display: table;
+	border-collapse: separate;
+	border-spacing: 2px;
+}
+
+.thead {
+	display: table-header-group;
+	color: white;
+	font-size: 13px;
+	font-weight: normal;
+	background-color: #5b9bd5;
+}
+
+.thead .td {
+	padding: 2px 4px;
+	text-align: center;
+	color: #FFF;
+}
+
+.tbody {
+	display: table-row-group;
+}
+.tbody input {
+	width: 100%;
+	height: 20px;
+	text-align: center;
+}
+.tr {
+	display: table-row;
+}
+.td {
+	display: table-cell;
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+}
+#myTable1{
+	height: 185px !important;
+	margin-bottom: 0;
+	overflow-y: auto;
+	border: 1px solid red;
+}
+
+.pair {
+	background-color: #eaeff7;
+}
+
+.impair {
+	background-color: #d2deef;
+}
+.pair input {
+	background-color: #eaeff7;
+}
+
+.impair input {
+	background-color: #d2deef;
+}
+.title{	
+	padding: 0 15px;
+}
+.title h5{
+	background: #7030a0;
+	margin-top: 0;
+	padding: 6px;
+	color: #FFF;
+	font-weight: bold;
+	text-align: center;
+	margin-left:-14px;
+	
+}
+#myFormulaire{
+	padding:0 15px;
+}
+#lab{
+	background-color:#00ff00;
+}
+.rw{
+	margin-bottom: 7px;
+}
+.rw label{
+	background-color: lightgrey;
+	padding: 4px 0;
+	text-align: center;
+	border: 1px solid #400040;
+}
+.rw input, .rw textarea, .rw select	{
+	width: 100%;
+	border: 1px solid #000;
+	box-shadow: 2px 2px;
+	background-color: lightgrey;
+}
+.mesBoutons{
+	margin-top:5px;
+	text-align: right;
+}
+.mesBoutons button{
+	border: 1px solid #5b9bd5;
+	font-weight: bold;
+	color: #000;	
+}
+
+#formSearch {
+}
+
+.btn.btn-light{border:1px solid #ced4da;border-left:0;background-color:#fff;border-radius:0 4px 4px 0}
+.form-control.squared-border-right{border-radius:4px 0 0 4px}
+.d-flex{
+	margin-bottom: 0;
+}
+#boutonVert div{
+	
+}
+#boutonVert button{
+	background:  #92d050;
+	width: 100%;
+	color: #FFF;
+	margin-left:-14px;
+}
+
+/*++++LES COULEURS DE FOND DES BOUTONS++++*/
+
+.baj{background:#a9d18e; padding:6px 20px;}
+.bmo{background:#5b9bd5;padding:6px 20px;}
+.bsu{background:#ff0000;padding:6px 20px;}
+.ban{background:#ffc000;padding:6px 20px;}
+.bnav1{background:#00b050;padding:6px 20px;}
+.bnav2{background:#ed7d31;padding:6px 20px;}
+.bnav3{background:#ffff00;padding:6px 20px;}
+
+/*++++LES COULEURS DE FOND DU BODY++++*/
+body{background:#f1f5f9;}

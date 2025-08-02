@@ -1,0 +1,32 @@
+.users{
+	position:absolute;
+	width: 150px;
+	height: 150px;
+	border: 1px solid grey;
+	right: 50px;
+}
+.users span{
+	position: absolute;
+	width: 130px;
+	padding: 5px 10px;
+	font-size: 17px; font-weight: bold;
+	color:	#FFF;
+	right: 160px;
+	border:1px solid red;
+}
+.users p{text-align:center;}
+.users p a{font-size:18px;font-weight:bold;color:#FFF;}
+.users p a:hover{cursor:pointer;color:#CEE8EF;}
+.users #imU{
+	width: 80px;
+	height: 80px;
+	margin: 2% auto;
+	border: 2px solid grey;
+	border-radius: 50px 50px;
+	box-shadow: 2px 2px;
+}
+.users img{
+	width: 80px;
+	height: 80px;
+	border-radius: 50px 50px;
+}
